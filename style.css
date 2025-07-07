@@ -1,0 +1,19 @@
+          *{
+            background-color:red; 
+            font-size:50px;        
+}
+        #heading {
+            font-size:1rem;
+            color:blue;
+            background-color: beige;
+            font-style: italic;
+        }
+        .big-font-class {
+            font-size: 1rem;
+            color:blueviolet;
+            background-color:lavender;
+            font-style: italic;
+        }
+       h1, h2 {
+           font-size:10rem ;
+       }
